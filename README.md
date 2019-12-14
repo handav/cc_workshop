@@ -1,40 +1,61 @@
 # Subjective Data and Creative Taxonomies
 
+
 Hannah Davis
+
 ahandvanish@gmail.com
+
 @ahandvanish
+
 
 ### Schedule 
 
 Saturday rough schedule:
+
 10-10:15 Introductions 
+
 10:15-11:15 Presentation: intro to subjective data(sets), bias, and creative taxonomies
+
 11:15-11:30 Creative Taxonomies Exercise 1: tagging data, exploring emotions
+
 11:30-1 Creative Taxonomies Exercise 2: creating your own taxonomies
+
 1-2 Lunch
+
 2-2:30 Presentation: intro to machine learning, different types of models, etc
+
 2:30-2:45 Looking at the archive, downloading your own images with Python
+
 2:45-3:30 Training, saving, and loading a model (with teachable machines and p5.js)
+
 3:30-5 Free work period with help/extra time in case any of the above runs over
 
 
 Tomorrow (Sunday):
-11-3 (break for lunch from 1-2): Free work period with help
-3-5: Small exhibition to display a trained model, creative taxonomy, or any other insight you learned or found! 
+
+11-3 (break for lunch from 1-2): Free work period
+
+3-5: Exhibition to display a trained model, creative taxonomy, or any other insight you learned or found! 
+
 
 ## Links
 
 ### For classification exercises
 
 First exercise: https://forms.gle/SPvNLTcAZE2XQ2vc9
+
 Second exercise: https://docs.google.com/document/d/12b9no0CeNkWKt1_V9pPJvb83FKDvOyFpYUmxGhPwyaI/edit?usp=sharing
+
 
 ### For the archive and working with images
 
 Image dataset: https://hetutrechtsarchief.nl/beeldmateriaal
 This is a collection of photos, illustrations, maps etc. mostly related to Utrecht.
+
 CSV of the metadata for 52,722 images with Public Domain 1.0 or CC0 licenses: https://hualab.nl/dumps/ 
+
 URL to query and download a CSV of images by keyword: https://druid.datalegend.net/HetUtrechtsArchief/beeldbank/queries/Search/2
+
 
 ## Downloading your own photos by keyword
 
@@ -50,18 +71,24 @@ Licenses should be Public Domain 1.0 or CC0.
 If you want different sized images, you can replace the 'main_url' variable in download_query_images.py with these URLs:
 
 SMALL: https://proxy.archieven.nl/thumb/39/
+
 MEDIUM: https://hualab.nl/beeldbank/640x480/
+
 LARGE: https://proxy.archieven.nl/download/39/
 
 ## Training a model
 
 https://teachablemachine.withgoogle.com/
+
 https://teachablemachine.withgoogle.com/train
+
 
 ## p5.js and ml5.js
 
 https://p5js.org/get-started/
+
 https://ml5js.org/
+
 
 ### Running your sketch and model
 
