@@ -18,17 +18,15 @@ Saturday rough schedule:
 
 11:15-11:30 Creative Taxonomies Exercise 1: tagging data, exploring emotions
 
-11:30-1 Creative Taxonomies Exercise 2: creating your own taxonomies
+12:40-1:30 Lunch
 
-1-2 Lunch
+1:50-2:50 Creative Taxonomies Exercise 2: creating your own taxonomies
 
-2-2:30 Presentation: intro to machine learning, different types of models, etc
+2:50-3:30 Presentation: intro to machine learning, different types of models, etc
 
-2:30-2:45 Looking at the archive, downloading your own images with Python
+3:30-4 Looking at the archive, downloading your own images with Python
 
-2:45-3:30 Training, saving, and loading a model (with teachable machines and p5.js)
-
-3:30-5 Free work period with help/extra time in case any of the above runs over
+4-5 Training, saving, and loading a model (with teachable machines and p5.js), talk about ml5.js and p5.js
 
 
 Tomorrow (Sunday):
@@ -45,6 +43,8 @@ Tomorrow (Sunday):
 First exercise: https://forms.gle/SPvNLTcAZE2XQ2vc9
 
 Second exercise: https://docs.google.com/document/d/12b9no0CeNkWKt1_V9pPJvb83FKDvOyFpYUmxGhPwyaI/edit?usp=sharing
+
+Second exercise taxonomies go here: https://docs.google.com/document/d/1BQmAomSvlVoeE5Rtl9HhQ-XhfvD2Yqpixe7Gw3eQ9hc/edit?usp=sharing
 
 
 ### For the archive and working with images
